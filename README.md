@@ -1,4 +1,4 @@
-Welcome to the Savvy Sourcer - Offline Sourcing Repository
+<h1> Welcome to the Savvy Sourcer - Offline Sourcing Repository </h1>
 
 Yes, the web is an amazing resource to find people - from software engineers to marketing managers.
 
