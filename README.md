@@ -1,3 +1,5 @@
+Welcome to the Savvy Sourcer - Offline Sourcing Repository
+
 Yes, the web is an amazing resource to find people - from software engineers to marketing managers.
 
 But there's nothing like old school face to face networking.
